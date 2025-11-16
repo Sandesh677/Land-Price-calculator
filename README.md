@@ -1,17 +1,30 @@
 Land Price Calculator in Nepal
 A simple and fast web-based tool that helps users calculate the price of land based on area, rate, and measurement units. This calculator makes it easy for buyers, sellers, and real-estate agents to instantly estimate land value with accuracy.
+
 Features
+
 Supports all common Nepali land units
+
 Hilly Region: Ropani, Aana, Paisa, Daam
+
 Terai Region: Bigha, Kattha, Dhur
+
 Universal Units: Square Feet, Square Meter
+
 ⚡ Instant total price calculation
+
 🔄 Unit conversion between any supported measurement
+
 🧮 Additional tools:
+
 Addition, subtraction, division calculator
+
 General unit converter
+
 🌍 Separate calculation tools for Hilly and Terai land system
+
 📱 Mobile and desktop friendly
+
 🌐 Lightweight, fast-loading interface
 
 Tech stack 
